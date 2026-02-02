@@ -14,6 +14,9 @@
   
   [![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat&logo=oracle)](https://www.oracle.com/cloud/)
   [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare)](https://www.cloudflare.com/)
+  [![EJS](https://img.shields.io/badge/EJS-Template%20Engine-90c53f?style=flat&logo=ejs)](https://ejs.co/)
+  [![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML/)
+  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS/)
 
 </div>
 
@@ -31,6 +34,7 @@
 ## 🚀 Nuestros Proyectos
 
 - 🤖 **[Capinetta Discord Bot](https://github.com/Capinetta-RP/capinetta-discord-bot)** - Sistema modular de gestión para servidores Discord con tickets, moderación y dashboard web
+- 🌐 **[Landing Page Capinetta](https://github.com/Capinetta-RP/landing-page-capinetta)** - Landing page oficial con diseño cyberpunk, optimizada para SEO y totalmente responsive
 
 ---
 
